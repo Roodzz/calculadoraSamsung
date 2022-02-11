@@ -1,0 +1,43 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #211B15;
+    color: yellow;
+}
+
+.gray{
+    background-color: #211B15;
+    color: #479BD8;
+}
+.result{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size:3.5em;
+}
+.C{
+    background-color: #211B15;
+    color:red;
+}
+.resultado{
+    background-color:yellow;
+    color:#211B15;
+}
